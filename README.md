@@ -5,7 +5,7 @@ Proofs made simple
 
 **Executive Summary:**
 
-This project aims to enhance Know Your Customer (KYC) processes by developing an advanced solution that leverages Merkle proofs to securely manage and verify user identities on the XRP Ledger (XRPL). Our solution will focus on creating a dynamic Merkle tree structure that generates a unique Merkle root, integrating these components into Decentralized Identifiers (DIDs) or an EMV sidechain. This integration will facilitate reliable identity verification and data management for wallet users upon site entry, ensuring enhanced security and user trust.
+This project aims to enhance Know Your Customer (KYC) processes by developing an advanced solution that leverages Merkle proofs to securely manage and verify user identities on the XRP Ledger (Ripple). Our solution will focus on creating a dynamic Merkle tree structure that generates a unique Merkle root, integrating these components into Decentralized Identifiers (DIDs) or an EMV sidechain. This integration will facilitate reliable identity verification and data management for wallet users upon site entry, ensuring enhanced security and user trust.
 
 **Objective:**
 
@@ -30,7 +30,7 @@ The proposed solution will drastically improve the reliability and security of K
 
 **Conclusion:**
 
-By implementing this innovative KYC verification system on the XRPL, we aim to set a new standard for secure, efficient, and user-friendly digital identity verification. This project not only supports the growth and security of the XRPL ecosystem but also aligns with the broader goal of enhancing digital trust and privacy in the blockchain domain.
+By implementing this innovative KYC verification system on the XRP, we aim to set a new standard for secure, efficient, and user-friendly digital identity verification. This project not only supports the growth and security of the XRP ecosystem but also aligns with the broader goal of enhancing digital trust and privacy in the blockchain domain.
 
 ## Simple WorkFlow 
 
