@@ -42,3 +42,6 @@ By implementing this innovative KYC verification system on the XRP, we aim to se
 <img width="2704" alt="MerkleProof_DIDs_ContractWorkFlow_April2024" src="https://github.com/ShaneSCalder/KYC_Data_Proofs/assets/29208274/d927af5c-db54-4c03-a640-eef5359a220d">
 
 
+
+# Status
+At this time you can use the merkle tree to create a proof but please do not use in a live environment as there is a potential for security issues as the tool is not fully developed right now it is just a proof of concept POC. In the next few months an API and a downloadable docker version will be avaliable for use.
