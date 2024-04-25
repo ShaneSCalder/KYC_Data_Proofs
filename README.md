@@ -39,4 +39,6 @@ By implementing this innovative KYC verification system on the XRP, we aim to se
 
 ## Simple Wallet Integration
 
-<img width="2704" alt="ZeroProof_SimpleExplanation" src="https://github.com/ShaneSCalder/KYC_Data_Proofs/assets/29208274/a8f8729a-e8ac-44d4-a68a-d1060c25f123">
+<img width="2704" alt="MerkleProof_DIDs_ContractWorkFlow_April2024" src="https://github.com/ShaneSCalder/KYC_Data_Proofs/assets/29208274/d927af5c-db54-4c03-a640-eef5359a220d">
+
+
